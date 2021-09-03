@@ -1,3 +1,6 @@
+###Cypress automation lab v1.1 - contact-us sample
+![](https://github.com/orensrauch/cypress-automation-lab-v1.1/blob/main/orensr-gif.gif?raw=true)
+
 **To Clone this project locally.**
 
 -Make sure you install Node latest version .
@@ -19,4 +22,6 @@ $ `npm install`
 * install Cypress $ `npm install --save-dev cypress` (should take 2-3 Minutes).
 
 * Opening Cypress... $ `./node_modules/.bin/cypress open`, will display demo examples of the power of Cypress.
+
+* open `contact us` example.
 
