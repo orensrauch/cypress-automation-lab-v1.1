@@ -1,0 +1,28 @@
+{
+  "name": "cypress-automation-lab-v1.1",
+  "version": "1.0.0",
+  "description": "Starting with Cypress and mocha simple test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/orensrauch/cypress-automation-lab-v1.1.git"
+  },
+  "keywords": [
+    "cypress",
+    "automation",
+    "testing",
+    "Mocha"
+  ],
+  "author": "Oren Schuller Rauch",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/orensrauch/cypress-automation-lab-v1.1/issues"
+  },
+  "homepage": "https://github.com/orensrauch/cypress-automation-lab-v1.1#readme",
+  "devDependencies": {
+    "cypress": "^8.3.1"
+  }
+}
